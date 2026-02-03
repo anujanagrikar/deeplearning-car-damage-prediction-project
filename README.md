@@ -1,3 +1,4 @@
+ HEAD
 # Vehicle Damage Detection App
 
 This app let's you drag and drop an image of a car and it will tell you what kind of damage it has.
@@ -26,3 +27,7 @@ The model is trained on third quarter front and rare view hence the picture shou
 2. Run the streamlit app:
    ```commandline
    streamlit run app.py
+=======
+# deeplearning-car-damage-prediction-project
+A deep learning car damage prediction project made on CNN and using a streamlit interface.
+92feb41a077b45f220ccc0019ae091376c87d1db
